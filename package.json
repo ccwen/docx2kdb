@@ -1,0 +1,26 @@
+{
+  "name": "docx2kdb",
+  "version": "1.0.0",
+  "description": "docx2kdb\r ========",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksanaforge/docx2kdb.git"
+  },
+  "keywords": [
+    "docx"
+  ],
+  "author": "yapcheahshen@gmail.com",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/ksanaforge/docx2kdb/issues"
+  },
+  "homepage": "https://github.com/ksanaforge/docx2kdb",
+  "dependencies": {
+    "sax": "~0.5.2",
+    "unzip": "*"
+  }
+}
